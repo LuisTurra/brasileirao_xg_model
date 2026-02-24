@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+tqdm
+xgboost
+scikit-learn
+mplsoccer
+plotly
+streamlit
+mplsoccer
+playwright
+tqdm
