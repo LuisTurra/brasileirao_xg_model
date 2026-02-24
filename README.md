@@ -2,7 +2,7 @@
 
 Modelo de Expected Goals (xG) treinado do zero com dados reais do Sofascore (temporada 2025).
 
-### Live: [streamlit]()
+### Live: [streamlit](https://luisturra-brasileirao-xg-model-streamlit-app-snhlbh.streamlit.app/)
 
 ## Funcionalidades
 
